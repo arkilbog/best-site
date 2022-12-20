@@ -11,4 +11,4 @@
 
 Примеры конкурентов
 
-[Примерная диаграмма активности](https://github.com/arkilbog/best-site/blob/main/doks/diagramm.png "architecture.md")
+[Примерная диаграмма архитектура сайта](https://github.com/arkilbog/best-site/blob/main/doks/diagramm.png "architecture.md")
