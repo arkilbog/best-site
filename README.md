@@ -12,3 +12,18 @@
 Примеры конкурентов
 
 [Примерная диаграмма архитектура сайта](https://github.com/arkilbog/best-site/blob/main/doks/diagramm.png "architecture.md")
+
+## Примеры аналогов
+### poiskzverei.ru
+
+![Screenshot_1](https://user-images.githubusercontent.com/95981303/208715158-de101075-2c89-4fa3-b655-1e90a49decc3.jpg)
+### kotipes74.ru
+![image](https://user-images.githubusercontent.com/95981303/208715257-3146963c-08ed-4713-a134-a8204746b4a4.png)
+
+### helppet.ru
+![image](https://user-images.githubusercontent.com/95981303/208715353-8d27aa14-288e-4be5-97f7-d54808193e57.png)
+
+Большое количество аналогов имеется в интернете, но нет достойного примение функций и интересного интерфейса проекта.
+
+## Какие технологии использовать
+Я предлагаю использовать такие языки программирования, как Java, C++, Kotlin. Приложение будет написано в среде разработки Android Studio. Так же будет необходимо поднять сервер с базой данных пользователей и контента, который они создают
