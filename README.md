@@ -14,7 +14,7 @@
 [Примерная диаграмма архитектура сайта](https://github.com/arkilbog/best-site/blob/main/doks/diagramm.png "architecture.md")
 
 ## Примеры аналогов
-### poiskzverei.ru
+### pet911.ru
 
 ![Screenshot_1](https://user-images.githubusercontent.com/95981303/208715158-de101075-2c89-4fa3-b655-1e90a49decc3.jpg)
 ### kotipes74.ru
